@@ -376,7 +376,7 @@ def plot_ef(n_points, er, cov, style='.-', legend=False, show_cml=False, riskfre
         # add EW
         ax.plot([vol_gmv], [r_gmv], color='midnightblue', marker='o', markersize=10)
         
-        return ax
+    return ax
 
                          
 def run_cppi(risky_r, safe_r=None, m=3, start=1000, floor=0.8, riskfree_rate=0.03, drawdown=None):
