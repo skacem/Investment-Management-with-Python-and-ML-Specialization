@@ -1,0 +1,5 @@
+# Module 4 - Key Points
+
+The main focus of this module is on the design of optimal allocation strategies for investors endowed with long-term liability or consumption objectives, a framework suitable to most institutional investors but also to private investors. It presents the state of the art in asset-liability management (ALM) with a specific emphasis on defining the investor's objectives and constraints, formalizing the risk-return trade-off in terms of final funding ratio and minimizing the opportunity costs of short-term constraints. 
+
+We emphasize the liability-driven investing paradigm, which leads to the recognition that investment decisions should not be framed in terms of one all-encompassing reference policy portfolio, but instead in terms of two distinct reference portfolios, namely a liability-hedging portfolio and a performance-seeking portfolio. 
